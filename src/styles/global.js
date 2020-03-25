@@ -25,6 +25,7 @@ const GlobalStyles = createGlobalStyle`
     font: inherit;
     vertical-align: baseline;
   }
+  @import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
   /* HTML5 display-role reset for older browsers */
   article, aside, details, figcaption, figure,
   footer, header, hgroup, menu, nav, section {
@@ -55,7 +56,8 @@ const GlobalStyles = createGlobalStyle`
     background: #16202c;
     line-height: 1;
     font-size: 100%;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
+    font-family: 'Nunito Sans', sans-serif;
   }
   img {
     display: block;
