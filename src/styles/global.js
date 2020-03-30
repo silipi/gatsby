@@ -69,7 +69,7 @@ const GlobalStyles = createGlobalStyle`
     --texts: #8899a6;
     --postColor: #fff;
     --highlight: #1fa1f2;
-    --mediumBackground: #192734;
+    --mediumBackground: linear-gradient(0deg, rgba(18,27,36,1) 0%, rgba(34,51,66,1) 100%);
     --background: #16202c;
     --white: #fff;
     --black: #222;
@@ -79,7 +79,7 @@ const GlobalStyles = createGlobalStyle`
     --postColor: #111;
     --texts: #555555;
     --highlight: #1fa1f2;
-    --mediumBackground: #f0f0f3;
+    --mediumBackground: linear-gradient(0deg, rgba(222,222,222,1) 0%, rgba(250,250,250,1) 100%);
     --background: #fff;
     --white: #fff;
     --black: #222;
