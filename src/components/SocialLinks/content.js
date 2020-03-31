@@ -1,25 +1,23 @@
-const handle = "johndoe"
-
 const links = [
   {
     label: "Github",
-    url: `https://github.com/${handle}`,
+    url: `https://github.com/silipi`,
   },
   {
     label: "Twitter",
-    url: `https://twitter.com/${handle}`,
+    url: `https://twitter.com/silipg`,
   },
   {
-    label: "Youtube",
-    url: `https://www.youtube.com/${handle}`,
+    label: "Facebook",
+    url: `https://www.facebook.com/gabriel.silipi.1`,
   },
   {
     label: "Instagram",
-    url: `https://www.instagram.com/${handle}`,
+    url: `https://www.instagram.com/sil.ipi/`,
   },
   {
-    label: "Unsplash",
-    url: `https://unsplash.com/${handle}`,
+    label: "Pinterest",
+    url: `https://www.pinterest.com/silipii/`,
   },
 ]
 
