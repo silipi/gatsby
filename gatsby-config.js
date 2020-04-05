@@ -1,6 +1,6 @@
-require("dotenv").config()
-
 const queries = require("./src/utils/algolia_queries")
+
+require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
@@ -63,9 +63,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-algolia-search`,
       options: {
-        appId: process.env.ALGOLIA_APP_ID,
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_ADMIN_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
+        indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
         queries,
         chunkSize: 10000, // default: 1000
         enablePartialUpdates: true,
@@ -86,6 +86,6 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`,
+    //`gatsby-plugin-offline`,
   ],
 }
