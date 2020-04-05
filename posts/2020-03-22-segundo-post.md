@@ -4,23 +4,24 @@ title: Segundo post deste blog
 description: Será que o sucesso dito anteriormente está por vir mesmo?
 category: Misc
 background: "#7AAB13"
+image: "/assets/img/desert.jpg"
 ---
 
 # Um mundo sem voltas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel vestibulum justo, sed dictum tortor. Integer et velit consectetur, lobortis nunc sed, commodo diam. Integer blandit mollis erat ut ultrices. Nunc consequat mollis diam vitae tincidunt. Pellentesque non semper leo. Maecenas in luctus ex, vitae ultricies ante. *Fusce sed nisi a sem* scelerisque hendrerit. Praesent condimentum purus ac `mollis congue`. Quisque facilisis nulla eu neque congue, id dignissim nisi placerat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel vestibulum justo, sed dictum tortor. Integer et velit consectetur, lobortis nunc sed, commodo diam. Integer blandit mollis erat ut ultrices. Nunc consequat mollis diam vitae tincidunt. Pellentesque non semper leo. Maecenas in luctus ex, vitae ultricies ante. _Fusce sed nisi a sem_ scelerisque hendrerit. Praesent condimentum purus ac `mollis congue`. Quisque facilisis nulla eu neque congue, id dignissim nisi placerat.
 
 Fusce et fringilla mi, eu consectetur nisl. [Aliquam erat volutpat](https://www.google.com.br "Gu-glê"). Sed volutpat feugiat ex eget faucibus. Pellentesque eleifend, tellus sit amet ultricies dictum, tellus libero ornare mauris, a efficitur tellus sem quis ipsum. Cras nec sem nec odio accumsan condimentum. Aliquam nec ornare nibh. Quisque at consectetur arcu.
 
--   Candy.
--   Gum.
--   Booze.
+- Candy.
+- Gum.
+- Booze.
 
-*   A list item.
+* A list item.
 
-    With multiple paragraphs.
+  With multiple paragraphs.
 
-*   Another item in the list.
+* Another item in the list.
 
 ## Viva o hoje
 
