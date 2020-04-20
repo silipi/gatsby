@@ -7,7 +7,8 @@ export const AboutWrapper = styled.div`
 
 export const AboutTitle = styled.h1`
   font-weight: 500;
-  font-size: 1.5rem;
+  color: var(--texts);
+  font-size: 2.8rem;
   letter-spacing: 0.06rem;
 `
 
@@ -18,6 +19,7 @@ export const AboutHeader = styled.section`
 `
 
 export const AboutHeaderText = styled.p`
+  color: var(--texts);
   letter-spacing: 0.06rem;
 `
 

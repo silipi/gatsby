@@ -24,13 +24,13 @@ const AboutPage = () => {
     <Layout>
       <SEO title="Sobre mim" />
       <S.AboutWrapper>
-        <S.AboutTitle>Teste</S.AboutTitle>
+        <S.AboutTitle>Sobre mim</S.AboutTitle>
         <S.AboutHeader>
           <S.AboutHeaderText>
-            Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse
-            platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non
-            vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Proin bibendum ullamcorper rutrum.
+            Meu nome é Gabriel Silipi, tenho 20 anos, moro em Cascavel - PR e
+            atualmente trabalho como Analista de Suporte. Sou apaixonado por
+            programação, matemática, designs minimalistas e criações de
+            projetos.
           </S.AboutHeaderText>
           <S.AboutHeaderImage fixed={aboutImageOne.childImageSharp.fixed} />
         </S.AboutHeader>
